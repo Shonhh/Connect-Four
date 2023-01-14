@@ -1,8 +1,7 @@
 import java.util.*;
 import static java.lang.System.*;
-import java.io.*;
 
-public class ConnectForMe {
+public class ConnectFour {
     public static String line = null;
     public static int index = 0;
     public static String turn = "R";
